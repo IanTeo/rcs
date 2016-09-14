@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello from Hamsyari
-=======
-Ian
 Hello from Jian Sheng
 Hello from Ian
->>>>>>> 6aa958b98e515e76c58eddd0a646283d54cbd7c0
